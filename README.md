@@ -43,7 +43,7 @@ Comparison of Fiction vs Non-Fiction average ratings.
 
 ## 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag946&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-ds&show_icons=true&theme=tokyonight)
 
 ---
 
