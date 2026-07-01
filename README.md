@@ -74,15 +74,30 @@ me.say_hi()
 
 ## 🚀 Featured Builds
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
 
-[![Iris Classifier](https://github-readme-stats.vercel.app/api/pin/?username=anurag-ds&repo=iris-ml-classifier&theme=radical&hide_border=true)](https://github.com/anurag-ds/iris-ml-classifier)
-[![Amazon Books Analysis](https://github-readme-stats.vercel.app/api/pin/?username=anurag-ds&repo=Amazon-Bestselling-Books-Analysis&theme=radical&hide_border=true)](https://github.com/anurag-ds/Amazon-Bestselling-Books-Analysis)
+### 🌸 Iris Classifier
+Machine Learning model to classify iris flowers using a Random Forest algorithm.
 
-[![Restaurant Market Analysis](https://github-readme-stats.vercel.app/api/pin/?username=anurag-ds&repo=Restaurant-Market-Analysis&theme=radical&hide_border=true)](https://github.com/anurag-ds/Restaurant-Market-Analysis)
-[![Neural Wars](https://github-readme-stats.vercel.app/api/pin/?username=anurag-ds&repo=Prometeo-26_Neural_Wars&theme=radical&hide_border=true)](https://github.com/anurag-ds/Prometeo-26_Neural_Wars)
+</td>
+<td width="33%" valign="top">
 
-</div>
+### 📚 Amazon Bestselling Books Analysis
+Exploratory data analysis on Amazon's Top 50 bestselling books (2009–2019).
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Book Genre Rating Analysis
+Comparison of Fiction vs Non-Fiction average reader ratings.
+
+</td>
+</tr>
+</table>
+
+> 🔗 Add a direct link to each project's repo here once you share the exact repo URLs — happy to wire them in.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -107,8 +122,6 @@ me.say_hi()
 <img src="https://raw.githubusercontent.com/anurag-ds/anurag-ds/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
-> 💡 *Note: this animated snake needs a one-time GitHub Actions setup — see the note below.*
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 💭 Random Dev Wisdom
@@ -130,6 +143,7 @@ me.say_hi()
 
 ⭐️ *"Growing with every line of code."*
 
+</div>
 </div>
 
 ---
