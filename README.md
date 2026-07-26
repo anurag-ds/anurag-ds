@@ -49,6 +49,8 @@ me.say_hi()
 **🐍 Languages**
 - Python
 - C++
+- HTML
+- SQL
 
 </td>
 <td valign="top" width="33%">
@@ -65,6 +67,7 @@ me.say_hi()
 - Git & GitHub
 - VS Code · Jupyter
 - LeetCode
+- HackerRank
 
 </td>
 </tr>
